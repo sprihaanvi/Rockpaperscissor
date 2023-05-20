@@ -1,0 +1,52 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.player {
+  text-align: center;
+  display: inline-block;
+  margin:60px;
+
+
+}
+
+body {
+
+  background-color: #227C70;
+}
+
+h1 {
+  margin: 40px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #D4FAFC;
+}
+h4{
+
+    margin: 40px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 4rem;
+
+    color:#D4FAFC;
+
+}
+
+p {
+
+  font-size: 4rem;
+
+  color:#D4FAFC;
+  font-family: 'Indie Flower', cursive;
+  text-align:center;
+
+}
+
+img {
+
+  width: 80%;
+
+}
